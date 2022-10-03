@@ -1,4 +1,4 @@
-# anxiliary
+# Anxi.me
 
 A new Flutter application.
 
