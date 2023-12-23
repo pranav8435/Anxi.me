@@ -1,17 +1,3 @@
 # Anxi.me
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Anxi.me" 
+Anxiety disorders affect 284 million individuals globally, yet diagnostic and intervention tools remain largely inaccessible, unaffordable, and stigmatized. Therefore, there is an urgent need for a personalized anxiety diagnostic and intervention system. To address this unmet need, an accessible and affordable diagnostic and assistive system was created through the development of two machine learning models and a mobile application. The first model, Anxi, is a fine-tuned version of GPT-3 that incorporates core principles of cognitive behavioral therapy to identify and correct cognitive distortions within user thought patterns. The second machine learning model uses the conversations with Anxi to accurately track an individual's anxiety over time with 96% accuracy. The information obtained from the detection is stored in a retrievable database accessible to healthcare providers, allowing for more informed treatment plans, monitoring of patient progress over time, and greater data-driven decision-making within the field. The mobile application graphically represents this information to users, while encouraging them to participate in intervention activities and interact with Anxi when feeling anxious. This system was deemed successful as it encompasses accurate detection, intuitive tracking, and immediate intervention to provide an accessible and affordable tool for anxiety patients and has the potential to expand and mitigate other mental health disorders faced by 13% of the global population.
